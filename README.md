@@ -1,10 +1,11 @@
 # Real-Time Chat Application
 
-A modern, real-time chat application built with Next.js, Node.js, Socket.IO, and MongoDB. Features include real-time messaging, typing indicators, unread message counts, and a WhatsApp-like user interface.
+A secure, modern real-time chat application built with Next.js, Node.js, Socket.IO, and MongoDB. It supports end-to-end style encrypted messaging, real-time updates, typing indicators, unread message tracking, and room-based conversations. The frontend features a responsive, WhatsApp-like interface optimized for both desktop and mobile.
 
 ## 🚀 Features
 
 ### Core Functionality
+**A secure, modern real-time chat application built with Next.js, Node.js, Socket.IO, and MongoDB. It supports end-to-end style encrypted messaging, real-time updates, typing indicators, unread message tracking, and room-based conversations**
 - **Real-time Messaging**: Instant message delivery using Socket.IO
 - **User Authentication**: Secure login and registration with JWT tokens
 - **Chat Management**: Create and manage multiple chat conversations
@@ -22,6 +23,7 @@ A modern, real-time chat application built with Next.js, Node.js, Socket.IO, and
 - **Loading States**: Smooth loading animations and states
 
 ### Technical Features
+A secure, modern real-time chat application built with Next.js, Node.js, Socket.IO, and MongoDB. It supports end-to-end style encrypted messaging, real-time updates, typing indicators, unread message tracking, and room-based conversations
 - **Socket.IO Integration**: Real-time bidirectional communication
 - **MongoDB Database**: Scalable NoSQL database for data storage
 - **JWT Authentication**: Secure token-based authentication
